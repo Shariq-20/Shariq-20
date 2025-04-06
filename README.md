@@ -5,9 +5,9 @@ I'm a passionate tech enthusiast and constantly exploring new technologies and e
 
 ## Here's what you'll find in this curated collection of my work:
 
-- I aimed to Explore a variety of data analytics projects that demonstrate my ability to tackle different challenges in data analysis, predictive modeling, and data visualization.
-- Each project is an opportunity where I've honed my skills in Python, R, SQL, and data visualization tools like Tableau and Power BI.
+- I aim to explore a variety of data analytics projects that demonstrate my ability to tackle different challenges in data analysis, predictive modeling, and data visualization.
 - While smaller in scale, these projects apply rigorous data science techniques to real-world problems, reflecting the practical application of my academic knowledge from Warwick Business School.
+- Each project is an opportunity where I've honed my skills in Python, R, SQL, and data visualization tools like Tableau and Power BI.
 - These projects represent my ongoing commitment to learning and professional growth in the field of business analytics.
 
 ### Below are some of the technologies I work with:
