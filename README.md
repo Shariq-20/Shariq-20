@@ -1,11 +1,9 @@
 # Welcome to my GitHub Profile!
 
 ## About Me
-I'm a passionate tech enthusiast and  constantly exploring new technologies and enhancing my skills. 
+I'm a passionate tech enthusiast and constantly exploring new technologies and enhancing my skills. 
 
-- Warwick Alum: Mastered the art of data at Warwick—love all things analytics!
-- Data Whiz: Big on Python, R, and SQL. I make data meaningful and fun.
-- Chart Master: From data to visuals, I create clean, impactful charts with Power BI and Excel.
+- Recently graduated with an MSc in Business Analytics from Warwick Business School and mastered the art of data — love all things analytics!
 
 Below are some of the technologies I work with:
 
