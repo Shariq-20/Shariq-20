@@ -1,9 +1,14 @@
 # Welcome to my GitHub Profile!
 
 ## About Me
-I'm a passionate tech enthusiast and constantly exploring new technologies and enhancing my skills. 
+I'm a passionate tech enthusiast and constantly exploring new technologies and enhancing my skills. Recently graduated with an MSc in Business Analytics from Warwick Business School and mastered the art of data — love all things analytics!
 
-- Recently graduated with an MSc in Business Analytics from Warwick Business School and mastered the art of data — love all things analytics!
+### Here's what you'll find in this curated collection of my work:
+
+- Explore a variety of data analytics projects that demonstrate my ability to tackle different challenges in data analysis, predictive modeling, and data visualization.
+- Each project is an opportunity where I've honed my skills in Python, R, SQL, and data visualization tools like Tableau and Power BI.
+- Continuous Learning: These projects represent my ongoing commitment to learning and professional growth in the field of business analytics.
+- While smaller in scale, these projects apply rigorous data science techniques to real-world problems, reflecting the practical application of my academic knowledge from Warwick Business School.
 
 Below are some of the technologies I work with:
 
