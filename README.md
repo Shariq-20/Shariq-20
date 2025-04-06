@@ -10,7 +10,7 @@ I'm a passionate tech enthusiast and constantly exploring new technologies and e
 - While smaller in scale, these projects apply rigorous data science techniques to real-world problems, reflecting the practical application of my academic knowledge from Warwick Business School.
 - These projects represent my ongoing commitment to learning and professional growth in the field of business analytics.
 
-Below are some of the technologies I work with:
+### Below are some of the technologies I work with:
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
